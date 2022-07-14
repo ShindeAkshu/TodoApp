@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+}
+
+
+.container{
+  justify-content: center;
+  background-color: cadetblue;
+  margin-bottom: 10px;
+  border-radius:20px;
+  padding:30px ;
+}
+
+.Form{
+  padding: 100px;
+}
+
+.app{
+  padding: 30px;
+  background-color: black;
+ 
+}
+
+
+.todo
+{
+  display: flex;
+  align-items: center;
+  font-size: 15px;
+  justify-content: space-between;
+  background-color: whitesmoke;
+}
+
+h1{
+  text-align: center;
+  border: solid 2px black; 
+}
+
+b{
+  text-align: center;
+}
